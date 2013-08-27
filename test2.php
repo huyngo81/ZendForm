@@ -1,1 +1,4 @@
 <?php
+ phpinfo();
+ echo "test";
+ ?>
