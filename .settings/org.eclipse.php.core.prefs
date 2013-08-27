@@ -1,0 +1,4 @@
+#Tue Aug 27 15:33:38 ICT 2013
+eclipse.preferences.version=1
+include_path=0;/Zendform\u00055;org.zend.php.framework.CONTAINER\u00055;com.zend.php.phpunit.CONTAINER
+use_asp_tags_as_php=false
